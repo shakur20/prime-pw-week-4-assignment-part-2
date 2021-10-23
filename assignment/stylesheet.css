@@ -1,0 +1,19 @@
+.header {
+  background-color: grey;
+  color: orange;
+  text-align: left;
+}
+h2 {
+  background-color: grey;
+  color: orange;
+  text-align: center;
+}
+
+h3 {
+  background-color: grey;
+  color: orange;
+  text-align: center;
+}
+img {
+  width: 50%;
+  height: 50%;
